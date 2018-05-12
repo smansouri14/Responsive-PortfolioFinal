@@ -274,7 +274,7 @@ input[type=submit]:hover {
 }
 
 
-@media all and (max-width: 640px) {
+@media screen and (max-width: 640px) {
 
     #left {
         float: left;
@@ -344,9 +344,9 @@ input[type=submit]:hover {
 
  }
  
- @media all and (min-width: 641px) and (max-width: 768px) {
+ @media screen and (min-width: 641px) and (max-width: 768px) {
     
-    #p {
+     #p {
         font-family: Arial, Helvetica, sans-serif;
         font-size: 12px;
         background: #ffffff;
@@ -370,8 +370,8 @@ input[type=submit]:hover {
         width:768px;
         float: left;
         margin-left:0px;
-    }
-  
+    } 
+   
  }
  
  @media all and (min-width: 980px)  {
